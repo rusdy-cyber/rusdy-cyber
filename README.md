@@ -1,4 +1,4 @@
-## ★ Github data ★
+## ★ Github information ★
 
 <a href="https://github.com/rusdy-cyber"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724DD&random=false&width=435&lines=folow+github+Rusdy+%5E_%5E" alt="Typing SVG" /></a>
 
@@ -11,6 +11,11 @@
   ### About Me
   - 👨‍🦱 My name is `rusdy`
   - 🏠 Live in `indonesia `
+  - skill
+     - pentestter
+     - programmer
+     - Ethical Hacking
+     - Desain UI UX
   - 🌐 Language
      - 🇮🇩 Indonesian
      - 🇮🇩 Jawa Empire
