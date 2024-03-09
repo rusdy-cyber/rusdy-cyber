@@ -2,9 +2,10 @@
 
 <a href="https://github.com/rusdy-cyber"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724DD&random=false&width=435&lines=folow+github+Rusdy+%5E_%5E" alt="Typing SVG" /></a>
 
-> _Number of visitors_
+> _jumlah pengunjung_
 
 - **Visitor Github @rusdy-cyber**
+- 
        ![DUMAI-991](https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue)
   >
 <!--
