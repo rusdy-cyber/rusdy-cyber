@@ -2,6 +2,13 @@
 
 <a href="https://github.com/rusdy-cyber"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724DD&random=false&width=435&lines=folow+github+Rusdy+%5E_%5E" alt="Typing SVG" /></a>
 
+> _Number of visitors_
+
+- **Visitor Github @Dra-ID**
+
+       ![DUMAI-991](https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue)
+
+  >
 <!--
 **rusdy-cyber/rusdy-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
