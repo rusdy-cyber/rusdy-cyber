@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724DD&random=false&width=435&lines=folow+github+Rusdy+%5E_%5E" alt="Typing SVG" /></a>
 <!--
 **rusdy-cyber/rusdy-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
