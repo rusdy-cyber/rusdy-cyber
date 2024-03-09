@@ -5,9 +5,7 @@
 > _Number of visitors_
 
 - **Visitor Github @Dra-ID**
-
        ![DUMAI-991](https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue)
-
   >
 <!--
 **rusdy-cyber/rusdy-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
