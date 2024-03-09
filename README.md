@@ -4,9 +4,16 @@
 
 > _jumlah pengunjung_
 
-- **Visitor Github @rusdy-cyber**  
+- **Pengunjung Github @rusdy-cyber**  
        ![DUMAI-991](https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue)
   >
+
+  ### About Me
+  - 👨‍🦱 My name is `rusdy`
+  - 🏠 Live in `indonesia `
+  - 🌐 Language
+     - 🇮🇩 Indonesian
+     - 🇮🇩 Jawa Empire
 <!--
 **rusdy-cyber/rusdy-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
