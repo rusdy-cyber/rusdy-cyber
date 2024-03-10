@@ -9,18 +9,23 @@
   >
 
   ### About Me
-  - 👨‍🦱 My name is `ciel`
+  - 👨‍🦱 My name is `ciel` 
   - 🏠 Live in `Tensura `
   - skill
      - pentestter
          - [`great-sage`](https://github.com/rusdy-cyber/great-sage)
          - [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
      - programmer
+         - web developer
+         - mobile developer
      - Ethical Hacking
      - Desain UI UX
+         - figma
+         - ms power point
+         - canva
   - 🌐 Language
      - 🇮🇩 Indonesian
-     - 🇮🇩 Jawa Empire
+        - 🇮🇩 Jawa Empire
 <!--
 **rusdy-cyber/rusdy-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
