@@ -13,8 +13,8 @@
   - 🏠 Live in `Tensura `
   - skill
      - pentestter
-         - great-sage
-         - manas-ciel
+         - [`great-sage`](https://github.com/rusdy-cyber/great-sage)
+         - [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
      - programmer
      - Ethical Hacking
      - Desain UI UX
