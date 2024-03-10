@@ -1,6 +1,6 @@
 ## ★ Github information ★
 
-<a href="https://github.com/rusdy-cyber"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724DD&random=false&width=435&lines=folow+github+Rusdy+%5E_%5E" alt="Typing SVG" /></a>
+<a href="https://github.com/rusdy-cyber"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2775F7&random=false&width=435&lines=selamat+datang+%5E_%5E" alt="Typing SVG" /></a>
 
 > _jumlah pengunjung_
 
