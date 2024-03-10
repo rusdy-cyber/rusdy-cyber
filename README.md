@@ -9,8 +9,8 @@
   >
 
   ### About Me
-  - 👨‍🦱 My name is `rusdy`
-  - 🏠 Live in `indonesia `
+  - 👨‍🦱 My name is `ciel`
+  - 🏠 Live in `Tensura `
   - skill
      - pentestter
      - programmer
