@@ -13,6 +13,8 @@
   - 🏠 Live in `Tensura `
   - skill
      - pentestter
+         - great-sage
+         - manas-ciel
      - programmer
      - Ethical Hacking
      - Desain UI UX
