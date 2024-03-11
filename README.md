@@ -1,6 +1,6 @@
 ## 歡迎來到我的帳戶 `rusdy-cyber`
 
-> _visit `[Paradoks-hub](https://github.com/Paradoks-hub)`_
+> _visit [`Paradoks-hub`](https://github.com/Paradoks-hub)_
 
 <a href="https://github.com/rusdy-cyber"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2775F7&random=false&width=435&lines=selamat+datang+%5E_%5E" alt="Typing SVG" /></a>
 
