@@ -15,8 +15,8 @@
   - 🏠 Live in `Tensura `
   - skill
      - pentestter
-         - [`great-sage`](https://github.com/rusdy-cyber/great-sage)
-         - [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
+         - ☠️ [`great-sage`](https://github.com/rusdy-cyber/great-sage)
+         - ☠️ [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
      - programmer
          - web developer
          - mobile developer
