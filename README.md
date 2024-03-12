@@ -6,7 +6,7 @@
 
 > _jumlah pengunjung_
 
-- **Pengunjung Github @rusdy-cyber**  
+- **Pengunjung Github**  
        ![👾uknow👾](https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue)
   >
 
