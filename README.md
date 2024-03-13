@@ -18,7 +18,7 @@
          - ☠️ [`great-sage`](https://github.com/rusdy-cyber/great-sage)
          - ☠️ [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
          - ☠️ [`wisdom-king-rafhail`](https://github.com/rusdy-cyber/wisdom-king-rafhail)
-         - ☠️ `void-god-azatod`
+         - ☠️ [`void-god-azatod`](https://github.com/rusdy-cyber/void-god-azatod)
      - programmer
          - web developer
          - mobile developer
