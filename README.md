@@ -17,7 +17,7 @@
      - **悪魔の王**
          - ☠️ [`great-sage`](https://github.com/rusdy-cyber/great-sage)
          - ☠️ [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
-         - ☠️ `wisdom-king-rafhail`
+         - ☠️ [`wisdom-king-rafhail`](https://github.com/rusdy-cyber/wisdom-king-rafhail)
          - ☠️ `void-god-azatod`
      - programmer
          - web developer
