@@ -17,6 +17,8 @@
      - pentestter
          - ☠️ [`great-sage`](https://github.com/rusdy-cyber/great-sage)
          - ☠️ [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
+         - ☠️ `wisdom-king-rafhail`
+         - ☠️ `void-god-azatod`
      - programmer
          - web developer
          - mobile developer
