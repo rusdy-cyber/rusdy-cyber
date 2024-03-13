@@ -14,7 +14,7 @@
   - 👨‍🦱 My name is `ciel` 
   - 🏠 Live in `Tensura `
   - skill
-     - pentestter
+     - **悪魔の王**
          - ☠️ [`great-sage`](https://github.com/rusdy-cyber/great-sage)
          - ☠️ [`manas-ciel`](https://github.com/rusdy-cyber/manas-ciel)
          - ☠️ `wisdom-king-rafhail`
