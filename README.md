@@ -7,7 +7,7 @@
 </p>
 
 <p>
-       foto
+      <img src="https://github.com/rusdy-cyber/rusdy-cyber/blob/main/img/rimuru.jpg" width="450px">
 </p>
 > _jumlah pengunjung_
 
