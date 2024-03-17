@@ -11,7 +11,7 @@
 </p>
 <p align="center">
       <em> jumlah pengunjung Pengunjung Github </em>
-             <br> <img src="https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue" width="20px">
+             <br> <img src="https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue" width="100px">
 </p>
 
 
