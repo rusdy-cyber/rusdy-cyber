@@ -10,7 +10,8 @@
       <img src="https://github.com/rusdy-cyber/rusdy-cyber/blob/main/img/rimuru%20hd.png" width="300px">
 </p>
 <p align="center">
-       _jumlah pengunjung_ **Pengunjung Github** <br> ![👾uknow👾](https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue)
+      <em> jumlah pengunjung Pengunjung Github </em>
+             <br> <img scr="https://komarev.com/ghpvc/?username=rusdy-cyber&color=blue">
 </p>
 
 
