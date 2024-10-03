@@ -1,6 +1,6 @@
 ## 歡迎來到我的帳戶 `rusdy-cyber`
 
-> _selamat datang, visit [`Paradoks-hub`](https://github.com/Paradoks-hub)_
+> _selamat datang, visit [`My Profile`](https://rusdy-cyber.github.io/profile/)_
 
 <p align="center">
        <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=006747&random=false&width=435&lines=%F0%9F%91%BE+WELCOME+human%F0%9F%91%BE;%F0%9F%92%80+NO+SYSTEM+SAVE+%F0%9F%92%80" alt="👾uknow👾" /></a> 
