@@ -1,4 +1,5 @@
 ## 歡迎來到我的帳戶 `rusdy-cyber`
+> _selamat datang, Kunjungi [`My Web Profile`](https://rusdy-cyber.github.io/profile/)_
 
 <p align="center">
   <img src="https://github.com/rusdy-cyber/rusdy-cyber/blob/main/img/rimuru%20hd.png" width="260px">
